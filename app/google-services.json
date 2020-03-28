@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1013401272492",
+    "firebase_url": "https://ebook-1d31a.firebaseio.com",
+    "project_id": "ebook-1d31a",
+    "storage_bucket": "ebook-1d31a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013401272492:android:36c9cc5698cd4dc30e5f09",
+        "android_client_info": {
+          "package_name": "com.ebooks.elabsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013401272492-m1qpa8efnv472jta5v7utqrq6pmfh7ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1qQsW9WMhmrNDmpcj02FMwrD5QtegbcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013401272492-m1qpa8efnv472jta5v7utqrq6pmfh7ui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
